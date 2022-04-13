@@ -1,2 +1,3 @@
-# leetcode_training
-Python codes for training leetcode
+# Leetcode Training
+
+The following codes are my personal training for programming excersices using leetcode platform.
